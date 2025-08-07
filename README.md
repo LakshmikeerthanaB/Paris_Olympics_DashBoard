@@ -1,4 +1,4 @@
-🏅 Paris 2024 Olympics Dashboard
+🏅 **Paris 2024 Olympics Dashboard**
 A Power BI dashboard analyzing Paris 2024 Olympics data, featuring insights on:
 
 🥇 Medal Tally
