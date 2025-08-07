@@ -14,7 +14,7 @@ Explore the action of the **Paris 2024 Olympics** through an interactive Power B
 
 ## 🎥 Interactive Dashboard Walkthrough
 
-▶️  
+▶️  [OverallView Of the DashBoard](https://github.com/LakshmikeerthanaB/Paris_Olympics_DashBoard/blob/main/Overall_View)
 *A quick demo that showcases the dashboard’s dynamic features and interactivity.*
 
 ---
