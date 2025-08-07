@@ -14,15 +14,8 @@ Explore the action of the **Paris 2024 Olympics** through an interactive Power B
 
 ## 🎥 Interactive Dashboard Walkthrough
 
-▶️ https://github.com/LakshmikeerthanaB/Paris_Olympics_DashBoard/blob/main/Final%20OLympics.pbix  
+▶️  
 *A quick demo that showcases the dashboard’s dynamic features and interactivity.*
-
----
-
-## 📁 Dataset Access
-
-📦 [Download Dataset (.zip)](https://github.com/your-username/your-repo-name/raw/main/Dataset.zip)  
-Includes sample data on medal counts, nation-wise performance, and athlete details used to build the dashboard.
 
 ---
 
